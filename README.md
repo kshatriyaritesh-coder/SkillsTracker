@@ -187,9 +187,3 @@ Instead of focusing only on productivity, Skills Tracker encourages long-term le
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to improve Skills Tracker, feel free to fork the repository, create a feature branch, and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
